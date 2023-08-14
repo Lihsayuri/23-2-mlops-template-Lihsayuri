@@ -21,3 +21,6 @@ As quatro vão exercer os seguintes papéis:
 - `notebooks`: essa será a pasta que conterá todos os jupyter notebooks utilizados no projeto. 
 - `models`: essa será a pasta que armazenará todos os modelos utilizados, desde OneHotEncoder até modelos com Random Forest, etc.
 - `src`: essa será a pasta que de fato armazenará os códigos de pré-processamento, treinamento e predição, os quais correspondem aos seguintes documentos: `__init__.py`, `process.py`, `train.py` e `predict.py`. 
+
+### Template testado e funcionando:
+
