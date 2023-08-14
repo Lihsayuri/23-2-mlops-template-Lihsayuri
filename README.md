@@ -8,6 +8,7 @@
 
 Esse repositório foi criado para servir de template para projetos de Machine Learning. Como vimos em aula, em um ambiente de produção que na maioria das vezes precisa ser escalável, é necessário estabelecer padrões de organização. Isso facilita na criação de novos argumentos e análises de novas features em um modelo, por exemplo. É por isso que isso repositório foi criado - com o `cookiecutter`, para ser um template a ser usado em projetos futuros. Ele segue a seguinte estrutura:
 
+```
 - data
 - notebooks
 - models
